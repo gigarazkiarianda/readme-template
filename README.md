@@ -47,22 +47,8 @@ Petunjuk penggunaan proyek, dengan contoh penggunaan dan konfigurasi:
 python script.py --option value
 ```
 
-## Struktur Folder
-```bash
-repo/
-├── src/
-│   ├── components/
-│   ├── services/
-│   ├── utils/
-│   └── App.js
-├── public/
-│   ├── index.html
-├── tests/
-│   ├── test_app.py
-├── .gitignore
-├── LICENSE
-└── README.md
-```
+## Fitur 
+* Fitur yang digunakan pada proyek ini 
 
 ## Highlight
 > Program Picture
