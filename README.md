@@ -47,6 +47,8 @@ Petunjuk penggunaan proyek, dengan contoh penggunaan dan konfigurasi:
 python script.py --option value
 ```
 
+## Struktur Folder 
+
 ## Fitur 
 * Fitur yang digunakan pada proyek ini 
 
