@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/username/repo.svg">
+    <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/username/repo">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/username/repo">
