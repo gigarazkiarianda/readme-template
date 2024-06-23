@@ -9,7 +9,6 @@
   <a href="https://github.com/gigarazkiarianda/readme-template/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/gigarazkiarianda/readme-template">
   </a>
-  <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=gigarazkiarianda&label=Views&color=brightgreen&style=plastic">
 </p>
 
 
