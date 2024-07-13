@@ -24,7 +24,7 @@ Framework, Library, Database, Tools, etc
 *  MySQL, MongoDB, dll.
 *  Docker, Git, dll.
 
-## Installation
+##  User Guide & Installation
 Langkah-langkah untuk menginstal dan menjalankan proyek secara lokal:
 ```bash
 # Clone repository ini
@@ -40,23 +40,11 @@ npm install
 npm start
 ```
 
-## User Guide 
-Petunjuk penggunaan proyek, dengan contoh penggunaan dan konfigurasi:
-```bash
-# Contoh cara menjalankan skrip atau perintah
-python script.py --option value
-```
-
-## Struktur Folder 
-
 ## Fitur 
 * Fitur yang digunakan pada proyek ini 
 
 ## Highlight
 > Program Picture
-
-## System Flow
->put system flow picture
 
 ## Issue
 
